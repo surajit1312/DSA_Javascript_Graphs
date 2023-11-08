@@ -4,7 +4,8 @@
   "description": "This is a repository to practice DSA Graphs topic in Javascript language",
   "main": "index.js",
   "scripts": {
-    "p1_create_graph_from_vertices_edge": "nodemon ./implementation/p1_create_graph_from_vertices_edge.js"
+    "p1_create_graph_from_vertices_edge": "nodemon ./implementation/p1_create_graph_from_vertices_edge.js",
+    "p1_graph_bfs_adjancy_list": "nodemon ./easy/p1_graph_bfs_adjancy_list.js"
   },
   "keywords": [],
   "author": "",
