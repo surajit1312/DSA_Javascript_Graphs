@@ -1,0 +1,19 @@
+{
+  "name": "dsa_javascript_graphs",
+  "version": "1.0.0",
+  "description": "This is a repository to practice DSA Graphs topic in Javascript language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "console-log-pattern": "^1.0.2",
+    "treeify": "^1.1.0"
+  }
+}
