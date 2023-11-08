@@ -4,7 +4,7 @@
   "description": "This is a repository to practice DSA Graphs topic in Javascript language",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "p1_create_graph_from_vertices_edge": "nodemon ./implementation/p1_create_graph_from_vertices_edge.js"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +13,6 @@
     "nodemon": "^3.0.1"
   },
   "devDependencies": {
-    "console-log-pattern": "^1.0.2",
-    "treeify": "^1.1.0"
+    "console-log-pattern": "^1.0.2"
   }
 }
